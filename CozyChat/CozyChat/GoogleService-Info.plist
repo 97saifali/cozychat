@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>585049144198-rhjvk7qqfae559ls110dp293otr7jm21.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.585049144198-rhjvk7qqfae559ls110dp293otr7jm21</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGnfX3ztJUoBvKjpCuWuTx2rBmmpFu6pQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>585049144198</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cozytechlabs.CozyChat</string>
+	<key>PROJECT_ID</key>
+	<string>cozy-chat-c5744</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cozy-chat-c5744.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:585049144198:ios:0681a39a377c7f7b53ca07</string>
+</dict>
+</plist>
