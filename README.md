@@ -1,2 +1,2 @@
-# cozychat
+# Cozychat
 Public chat app
